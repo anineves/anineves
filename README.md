@@ -1,6 +1,6 @@
-### Hi there 👋
+<h1 align="center"> Hi, I’m Ana Isabel Neves  🙋🏻‍♂️ </h1>
 
- 👩‍🎓42 Porto student
+## ▪️ I'm student at [42 Porto](https://www.42porto.com/) 👨🏻‍💻📚 
 
  
 ## ▪️ I’m currently learning
@@ -13,9 +13,11 @@
 </div>
 
 ## ▪️ Github stats 📊
-![anineves's GitHub stats](https://github-readme-stats.vercel.app/api?username=anineves&show_icons=true&theme=radical)
+![anineves GitHub stats](https://github-readme-stats.vercel.app/api?username=anineves&show_icons=true&theme=github_dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anineves&layout=compact&theme=github_dark)
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=anineves.visitor-badge)
   
   ## ▪️ How to reach me:
  
@@ -26,3 +28,4 @@
   <a href="https://https://www.linkedin.com/in/ana-isabel-neves-5368b9159/a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+

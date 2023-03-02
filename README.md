@@ -31,10 +31,11 @@
 
 ## Projetos 42Porto
 
-[![](./icons/libftm.png)](https://github.com/anineves/libft)
-[![](./icons/get_next_linem.png)](https://github.com/anineves/GNL)
-[![](./icons/ft_printfe.png)](https://github.com/anineves/Ft_printf)
-[![](./icons/so_longm.png)](https://github.com/anineves/So_long)
-[![](./icons/minitalkm.png)](https://github.com/anineves/Minitalk)
+### 42 School Projects
+<div align="center">
+
+<a href="https://github.com/anineves/libft">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png)</a>
+<a href="https://github.com/mcombeau/GNL">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linee.png)</a>
+<a href="https://github.com/mcombeau/Ft_printf">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfe.png)</a>
 
 

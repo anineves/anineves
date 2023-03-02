@@ -1,9 +1,9 @@
 <h1 align="center"> Hi, I’m Ana Isabel Neves 🙋‍♀️</h1>
 
-## ▪️ I'm student at [42 Porto](https://www.42porto.com/) 👨🏻‍💻📚 
+## I'm student at [42 Porto](https://www.42porto.com/) 👨🏻‍💻📚 
 
  
-## ▪️ I’m currently learning
+## I’m currently learning
 
 <div style="display: inline_block"><br>
 <img align="center" alt="JavaScrip" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,13 +12,13 @@
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
 </div>
 
-## ▪️ Github stats 📊
+## Github stats
 ![anineves GitHub stats](https://github-readme-stats.vercel.app/api?username=anineves&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anineves&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anineves&theme=github_dark)
 
   
-  ## ▪️ Contact me:
+  ## Contact me:
  
 <div> 
 
@@ -27,10 +27,7 @@
   
 </div>
 
-
-## Projetos 42Porto
-
-### 42 School Projects
+## 42 School Projects
 <div align="center">
 
 <a href="https://github.com/anineves/libft">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png)</a>
@@ -38,6 +35,6 @@
 <a href="https://github.com/anineves/ft_printf">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfe.png)</a>
 <a href="https://github.com/anineves/so_long">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/so_longe.png)</a>
 <a href="https://github.com/anineves/minitalk">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minitalke.png)</a>
-<a href="https://github.com/mcombeau/push_swap">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swape.png)</a>
+<a href="https://github.com/anineves/push_swap">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swape.png)</a>
 
 

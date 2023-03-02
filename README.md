@@ -35,7 +35,10 @@
 <div align="center">
 
 <a href="https://github.com/anineves/libft">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png)</a>
-<a href="https://github.com/mcombeau/GNL">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linee.png)</a>
-<a href="https://github.com/mcombeau/Ft_printf">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfe.png)</a>
+<a href="https://github.com/anineves/get_next_line">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linee.png)</a>
+<a href="https://github.com/anineves/ft_printf">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfe.png)</a>
+<a href="https://github.com/anineves/so_long">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/so_longe.png)</a>
+<a href="https://github.com/anineves/minitalk">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minitalke.png)</a>
+<a href="https://github.com/mcombeau/push_swap">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swape.png)</a>
 
 

@@ -37,5 +37,8 @@
 <a href="https://github.com/anineves/so_long">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/so_longe.png)</a>
 <a href="https://github.com/anineves/minitalk">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minitalke.png)</a>
 <a href="https://github.com/anineves/push_swap">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swape.png)</a>
+<a href="https://github.com/anineves/minishell">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishelle.png)</a>
+<a href="https://github.com/anineves/Philo">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosopherse.png)</a>
+<a href="https://github.com/anineves/cub3D">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3d3.png)</a>
 
 
